@@ -1,11 +1,16 @@
 _repo: Color-mixing-guide-for-artists-painters-decorators-printing-pressmen-show-card-writers-sign-p__69507
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69507-h/images/cover.jpg
 creator:
   author:
     agent_name: King, John L.
     gutenberg_agent_id: '55293'
     url: http://www.gutenberg.org/2009/agents/55293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69507#Color-mixing-guide-for-artists-painters-decorators-printing-pressmen-show-card-writers-sign-p_
 gutenberg_issued: '2022-12-09'
 identifiers:
   gutenberg: '69507'
